@@ -9,8 +9,8 @@ Detailed description of assignment can be found **[here](/Documentation/Traccia.
 
 ## Solution
 Project has been completely developed in **C#**, using **Unity**. The complete application developed consists in:
-* A **backend** application intended for use by museum operators. With the application they can place/remove/move sensors for tracking visitors.
-* A **frontend** application intended for use by museum's management team. With this application they can visualize paths of visitors inside the museum giving a record of paths in input. It is possible to filter the data to visualize based on different criteria and to choose between two possibile kind of visualization.
+* A **backend** application intended for use by museum operators. With the application they can place/remove/move sensors for tracking visitors. Source code in [IoT Monitoring Museum - Backend](/IoT%20Monitoring%20Museum%20-%20Backend).
+* A **frontend** application intended for use by museum's management team. With this application they can visualize paths of visitors inside the museum giving a record of paths in input. It is possible to filter the data to visualize based on different criteria and to choose between two possibile kind of visualization. [IoT Monitoring Museum](/IoT%20Monitoring%20Museum).
 
 Front and backend communicates through a central online repository. 
 
