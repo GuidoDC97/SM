@@ -1,0 +1,2 @@
+C:\Users\fabio\Documents\Fabio\Università\3°anno\2°semestre\Sistemi Multimediali\Progetto\IoT Monitoring Museum\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\fabio\Documents\Fabio\Università\3°anno\2°semestre\Sistemi Multimediali\Progetto\IoT Monitoring Museum\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
